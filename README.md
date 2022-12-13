@@ -13,7 +13,8 @@ In order to start this project I had to pull the starting code from the class Gi
 ## Usage
 
 active webpage link:
+https://currancollins.github.io/week5challenge/
 
 This webpage is to be used to keep track of tasks to be completed throughout your day
 
-![Webpage Image](assets/images/Screenshot.png)
+![Webpage Image](images/screenshot.png)
